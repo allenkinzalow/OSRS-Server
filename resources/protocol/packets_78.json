@@ -1,0 +1,217 @@
+{
+  "revision":78,
+  "modulus": "123033817912332678305532530077861245181331192638446316645450339166689462693186520314634130943652736674340936075495803951141001942741366408723998407454850259697197250832121390994557023545742008923818393877691639843727729764419161147932439509335626132599961174857668773156091011367588797200630689860584783249711",
+  "exponent": "108347555838570093164555967482699603344604550893926953001747423206224203882914488509373243103620459350029949260130381757421789006566904510629062118922886714451389208579492636081334848998269472472889419360528013013864908231962761320298383499440149220296890953196691001989518146230867335014569171220348308859473",
+  "packets":[
+    {
+      "packetID": 189,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":1
+    },
+    {
+      "packetID": 83,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":2
+    },
+    {
+      "packetID": 209,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":3
+    },
+    {
+      "packetID": 87,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":4
+    },
+    {
+      "packetID": 132,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":5
+    },
+    {
+      "packetID": 75,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":6
+    },
+    {
+      "packetID": 180,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":7
+    },
+    {
+      "packetID": 106,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":8
+    },
+    {
+      "packetID": 156,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":9
+    },
+    {
+      "packetID": 107,
+      "packetSize": 8,
+      "decoderClassName": "ActionButtonDecoder",
+      "index":10
+    },
+    {
+      "packetID": 204,
+      "packetSize": -1,
+      "decoderClassName": "MouseRecordingDecoder",
+      "index":0
+    },
+    {
+      "packetID": 20,
+      "packetSize": 4,
+      "decoderClassName": "MouseClickDecoder",
+      "index":0
+    },
+    {
+      "packetID": 28,
+      "packetSize": 6,
+      "decoderClassName": "EnterKeyDecoder",
+      "index":0
+    },
+    {
+      "packetID": 94,
+      "packetSize": 0,
+      "decoderClassName": "UnhandledPacketDecoder",
+      "index":0
+    },
+    {
+      "packetID": 78,
+      "packetSize": 1,
+      "decoderClassName": "FocusEventDecoder",
+      "index":0
+    },
+    {
+      "packetID": 84,
+      "packetSize": -1,
+      "decoderClassName": "WalkDecoder",
+      "index":0
+    },
+    {
+      "packetID": 182,
+      "packetSize": 8,
+      "decoderClassName": "ItemInteractionDecoder",
+      "index":0
+    },
+    {
+      "packetID": 128,
+      "packetSize": 9,
+      "decoderClassName": "SpellOnNPCDecoder",
+      "index":0
+    },
+    {
+      "packetID": 31,
+      "packetSize": 9,
+      "decoderClassName": "SpellOnPlayerDecoder",
+      "index":0
+    },
+    {
+      "packetID": 210,
+      "packetSize": 13,
+      "decoderClassName": "SpellOnGroundItemDecoder",
+      "index":0
+    },
+    {
+      "packetID": 214,
+      "packetSize": 11,
+      "decoderClassName": "ItemOnEntityDecoder",
+      "index":1
+    },
+    {
+      "packetID": 228,
+      "packetSize": 11,
+      "decoderClassName": "ItemOnEntityDecoder",
+      "index":2
+    },
+    {
+      "packetID": 169,
+      "packetSize": 15,
+      "decoderClassName": "ItemOnObjectDecoder",
+      "index":0
+    },
+    {
+      "packetID": 0,
+      "packetSize": -1,
+      "decoderClassName": "CommandDecoder",
+      "index":0
+    },
+    {
+      "packetID": 129,
+      "packetSize": 3,
+      "decoderClassName": "NPCInteractionDecoder",
+      "index":1
+    },
+    {
+      "packetID": 165,
+      "packetSize": 3,
+      "decoderClassName": "NPCInteractionDecoder",
+      "index":2
+    },
+    {
+      "packetID": 93,
+      "packetSize": 3,
+      "decoderClassName": "NPCInteractionDecoder",
+      "index":3
+    },
+    {
+      "packetID": 60,
+      "packetSize": 3,
+      "decoderClassName": "NPCInteractionDecoder",
+      "index":4
+    },
+    {
+      "packetID": 150,
+      "packetSize": 7,
+      "decoderClassName": "GroundItemInteractionDecoder",
+      "index":0
+    },
+    {
+      "packetID": 77,
+      "packetSize": -1,
+      "decoderClassName": "ChatDecoder",
+      "index":0
+    },
+    {
+      "packetID": 100,
+      "packetSize": 7,
+      "decoderClassName": "ObjectInteractionDecoder",
+      "index":1
+    },
+    {
+      "packetID": 55,
+      "packetSize": 7,
+      "decoderClassName": "ObjectInteractionDecoder",
+      "index":2
+    },
+    {
+      "packetID": 113,
+      "packetSize": 3,
+      "decoderClassName": "PlayerInteractionDecoder",
+      "index":1
+    },
+    {
+      "packetID": 29,
+      "packetSize": 3,
+      "decoderClassName": "PlayerInteractionDecoder",
+      "index":2
+    },
+    {
+      "packetID": 231,
+      "packetSize": 3,
+      "decoderClassName": "PlayerInteractionDecoder",
+      "index":3
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+client -> server
+51 - press key
+233/96 - press mouse
+0 - focus client
+
+123 - walk
+53 - walk minimap
+13 - interface action 1
+245 - interface action 2
+125 - interface action 3
+240 - interface action 4
+236 - interface action 5
+108 - interface action 6
+104 - interface action 7
+193 - interface action 8
+112 - interface action 9
+163 - interface action 10
+68 - item action #
+75 - item action 1
+191 - item action 2
+162 - item action 3
+64 - item action 4?
+
+72 - enter amount
+
+243 - close interface
+
+148 - spell on item
+167 - spell on npc
+71 - spell on player
+ spell on ground item
+
+249 - item on npc
+212 - item on player
+102 - item on object
+
+19 - command packet
+
+
+
+62 - npc action 1
+57 - npc action 2
+33 - npc action 3
+241 - npc action 4?
+
+215 - pick up item
+
+19 - enter text to chatbox
+11 - object click 1
+156 - object click 2
+ - object click #?
+23 - player interaction 1
+186 - player interaction 2
+29 - player interaction 3
+9 - add friend
+220 - remove friend
+103 - join/leave cc
+99 - switch items inv
+182 - switch items on interface?
+
+
+
+LocalX: 50
+Num Maps: 9
+cy: 436
+x: 387 y: 436
+[MAP] RegionID: 12085 XTEA: [346452736, -1406685396, 1258413237, 2003757492]
+x: 387 y: 436
+[MAP] RegionID: 12086 XTEA: [2085966776, -2014649016, 2041354125, 1183651413]
+x: 387 y: 436
+[MAP] RegionID: 12087 XTEA: [-295731020, -1575280864, -1427786523, 2033614117]
+x: 387 y: 436
+[MAP] RegionID: 12341 XTEA: [775720140, -156517594, -324228658, 514974388]
+x: 387 y: 436
+[MAP] RegionID: 12342 XTEA: [-1186106879, -258036335, -625746420, -1812079746]
+x: 387 y: 436
+[MAP] RegionID: 12343 XTEA: [-1711664456, -1215624250, 506564739, 1302166376]
+x: 387 y: 436
+[MAP] RegionID: 12597 XTEA: [2086532287, -12499074, -67787583, 1126187626]
+x: 387 y: 436
+[MAP] RegionID: 12598 XTEA: [630389964, 47471342, 764703061, 2133293208]
+x: 387 y: 436
+[MAP] RegionID: 12599 XTEA: [-550336185, 659264845, 412777756, 1834471441]
+
+Write Packet: 100
+Packet ID: 193 Packet Size: 2
+Packet ID: 149 Packet Size: 3
+Packet ID: 149 Packet Size: 3
+Packet ID: 173 Packet Size: 6
+Packet ID: 173 Packet Size: 6
+Packet ID: 173 Packet Size: 6
+Packet ID: 157 Packet Size: 7
+Packet ID: 157 Packet Size: 7
+Packet ID: 217 Packet Size: 12
+Packet ID: 217 Packet Size: 12
+Packet ID: 217 Packet Size: 12
+Packet ID: 217 Packet Size: 12
+Packet ID: 217 Packet Size: 12
+Packet ID: 217 Packet Size: 12
+Packet ID: 217 Packet Size: 12
+Packet ID: 217 Packet Size: 12
+Packet ID: 7 Packet Size: -2
+Packet ID: 41 Packet Size: -2
+Packet ID: 53 Packet Size: 5
+[Scene Object Packet] ID: 53
+Packet ID: 200 Packet Size: -2
+Packet ID: 200 Packet Size: -2
+Packet ID: 200 Packet Size: -2
+
+Packet ID: 184 Packet Size: -2
+Packet ID: 149 Packet Size: 3
+
+
+
+
+//Login
+
+
+
